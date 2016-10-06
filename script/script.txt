@@ -1,0 +1,11 @@
+Build server
+  python server.py /
+Get directory
+  python client.py -g /
+Create directory
+  python client.py -c /lol asd
+Get file
+ python client.py -d / asdf.txt /
+Put file
+ python client.py -p / lol.txt /
+
